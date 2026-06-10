@@ -1,7 +1,7 @@
 # Macropad
 
 A custom 3-key macropad with an SSD1306 OLED display, built on a Seeed Studio XIAO RP2040. Designed from scratch in KiCad and Fusion 360 as a learning project for PCB design and CAD.
-
+It took me about 3 hours to learn how to use 360 and try to see if the PCB would fit into my case. It took me about 1 hour trying to figure out how KICAD worked with the schematic and routing.
 ## Features
 - 3x Cherry MX mechanical switches
 - SSD1306 128x64 OLED display showing CPU/GPU temperatures
