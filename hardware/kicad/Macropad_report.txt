@@ -1,0 +1,44 @@
+PCB statistics report
+=====================
+- Date: 6/8/2026 10:59:12 PM
+- Project: Macropad
+- Board name: Macropad
+
+Board
+-----
+- Width: 61.9125 mm
+- Height: 47.6250 mm
+- Area: 2948.5828 mm²
+
+Pads
+----
+- Through hole: 20
+- SMD: 30
+- Connector: 0
+- NPTH: 9
+
+Vias
+----
+- Through vias: 0
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |          3 |         0 |     3 |
+|SMD:          |          2 |         0 |     2 |
+|Unspecified:  |          0 |         0 |     0 |
+|Total:        |          5 |         0 |     5 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|    14 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     6 | Round | 1.7000 mm | 1.7000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     6 | Round | 1.5000 mm | 1.5000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     3 | Round | 4.0000 mm | 4.0000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
