@@ -8,6 +8,12 @@ It took me about 3 hours to learn how to use 360 and try to see if the PCB would
 - Seeed Studio XIAO RP2040 microcontroller
 - Custom 3D printed case with Hack Club logo
 - USB-C connectivity
+## Pictures
+<img width="2024" height="1076" alt="image" src="https://github.com/user-attachments/assets/98169563-0df0-4142-b6fe-7224f442829f" />
+<img width="1261" height="940" alt="image" src="https://github.com/user-attachments/assets/d5f86c12-2ecb-460d-88a1-3ed0818f668e" />
+<img width="1586" height="1165" alt="image" src="https://github.com/user-attachments/assets/02f0a686-e600-4197-a243-d25f6a5fbc96" />
+
+
 
 ## Components
 | Part | Cost |
